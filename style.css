@@ -44,7 +44,6 @@ h2 {
 .container {
     width: 800px;
     height: 600px;
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAUVBMV…HwjTtUNAcMelOd4xpkoqiTYICWFq0JSiPfPDQdnt+4/wuqcXY47QILbgAAAABJRU5ErkJggg==);
     transform: translate(-50%, -50%);
     perspective: 1000px;
     position: absolute;
