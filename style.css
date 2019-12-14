@@ -60,7 +60,7 @@ h2 {
     transition: all .5s ease-in;
 }
 
-.container:hover .cover {
+.turned .cover {
     transform: rotateY(180deg);
 }
 
